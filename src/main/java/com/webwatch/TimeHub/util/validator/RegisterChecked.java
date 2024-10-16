@@ -1,4 +1,4 @@
-package com.huucuong.TimeHub.util.validator;
+package com.webwatch.TimeHub.util.validator;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

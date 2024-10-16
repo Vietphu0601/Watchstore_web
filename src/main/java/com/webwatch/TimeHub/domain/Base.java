@@ -1,4 +1,4 @@
-package com.huucuong.TimeHub.domain;
+package com.webwatch.TimeHub.domain;
 
 import java.time.LocalDateTime;
 

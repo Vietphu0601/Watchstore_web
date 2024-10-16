@@ -1,6 +1,6 @@
-package com.huucuong.TimeHub.service;
+package com.webwatch.TimeHub.service;
 
-import com.huucuong.TimeHub.domain.Cart;
+import com.webwatch.TimeHub.domain.Cart;
 
 public interface ICartService {
     public Cart findByUserId(Long id);

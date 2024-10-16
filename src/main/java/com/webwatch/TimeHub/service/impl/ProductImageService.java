@@ -1,12 +1,12 @@
-package com.huucuong.TimeHub.service.impl;
+package com.webwatch.TimeHub.service.impl;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.huucuong.TimeHub.domain.ProductImage;
-import com.huucuong.TimeHub.repository.ProductImageRepository;
-import com.huucuong.TimeHub.service.IProductImageService;
+import com.webwatch.TimeHub.domain.ProductImage;
+import com.webwatch.TimeHub.repository.ProductImageRepository;
+import com.webwatch.TimeHub.service.IProductImageService;
 
 @Service
 public class ProductImageService implements IProductImageService {

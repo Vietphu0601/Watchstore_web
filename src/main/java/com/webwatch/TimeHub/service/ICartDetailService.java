@@ -1,8 +1,8 @@
-package com.huucuong.TimeHub.service;
+package com.webwatch.TimeHub.service;
 
 import java.util.List;
 
-import com.huucuong.TimeHub.domain.CartDetail;
+import com.webwatch.TimeHub.domain.CartDetail;
 
 public interface ICartDetailService {
     public CartDetail findById(Long id);
