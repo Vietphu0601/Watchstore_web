@@ -7,6 +7,7 @@ We provide a curated selection of timepieces, from luxury brands to affordable f
 Enjoy exclusive deals, fast shipping, and a seamless shopping experience at TimeHub. Every second counts, and we’re here to make sure you’re always on time with the perfect watch.
 
 ![Homepage](src/main/resources/images/home.png)
+![Homepage2](src/main/resources/images/home2.bmp)
 
 ## Installation Guide
 
@@ -51,24 +52,24 @@ This project is built using the following technologies:
 
 - **User registration and authentication**:  
   Users can register for an account, log in, and manage their profiles. This includes the ability to reset passwords and update personal information.  
-  ![User Registration](https://drive.google.com/file/d/1Bvpa97DawRDX8hC_KfW2HRxa5EQNfpoY/view?usp=sharing)
+  ![User Registration](src/main/resources/images/users.bmp)
 
 - **Product browsing**:  
   Users can browse the catalog of available watches. Filtering options by brand, price range, and features are available, along with a search function to quickly find specific models.  
-  ![Product Browsing](https://drive.google.com/file/d/1nFKyQTXnBsG3jKW4fFU8MYvsttARmmY0/view?usp=sharing)
+  ![Product Browsing](src/main/resources/images/filter.bmp)
 
 - **Product details**:  
   Each watch listing provides detailed information, including images, specifications, customer reviews, and pricing. High-quality images enhance the user experience.  
-  ![Product Details](https://drive.google.com/file/d/1ZP0Rz5coCcuBJqqN1ZO0HDlHLHmZ9ITS/view?usp=sharing)
+  ![Product Details](src/main/resources/images/des.bmp)
 
 - **Shopping cart functionality**:  
   Users can add watches to a shopping cart, view their selections, and modify quantities or remove items before proceeding to checkout.  
-  ![Shopping Cart](https://drive.google.com/file/d/1UN_mjIv55kxujR4wrSdEyVv9nH8bXhyy/view?usp=sharing)
+  ![Shopping Cart](src/main/resources/images/payment.bmp)
 
 - **Checkout process**:  
   A secure and straightforward checkout process is implemented. Users input shipping information, select payment methods, and review their orders before finalizing the purchase.  
-  ![Checkout Process](https://drive.google.com/file/d/1KY006JRmQbqNvIalQc0MA9yKyVfZxL3o/view?usp=sharing)
-  ![Checkout Success](https://drive.google.com/file/d/1oQRXxQLBTNtYvDGTTtUYGKhVsSNcNEzC/view?usp=sharing)
+  ![Checkout Process](src/main/resources/images/cart.jpg)
+  ![Checkout Success](src/main/resources/images/success.jpg)
 
 - **Email support**:  
   Customers can reach out for support or assistance via email, where queries regarding orders, product information, and general feedback can be addressed.  
@@ -77,20 +78,20 @@ This project is built using the following technologies:
 
 - **Order management**:  
   Administrators can oversee all customer orders, including the ability to view, modify, and update order statuses. This ensures timely processing and delivery of products to customers.  
-  ![Order Management](https://drive.google.com/file/d/1yQxlvxB0NulcZ5b9Yl8Cvw_S0Rt3IZkx/view?usp=sharing)
+  ![Order Management](src/main/resources/images/order.jpg)
 
 - **Product information management**:  
   Administrators can manage product details, including descriptions, pricing, and inventory levels. This functionality helps maintain accurate and up-to-date product information, improving customer satisfaction.  
-  ![Product Management](https://drive.google.com/file/d/1L_-9re0yAbalmL8wX8Ud8UC7sz_yYaFE/view?usp=sharing)
+  ![Product Management](src/main/resources/images/product.jpg)
 
 - **User management**:  
   Administrators have the ability to create, modify, and delete user profiles. This ensures that user data is secure and accessible, while also allowing for the monitoring of user activity.  
-  ![User Management](https://drive.google.com/file/d/1n4FHgtRSMcQ0Mm9NGMZjUJV1pYZM2DkO/view?usp=sharing)
+  ![User Management](src/main/resources/images/users.bmp)
 
 - **Email support for users**:  
   Administrators can provide assistance to users via email, addressing inquiries, resolving issues, and offering guidance on product-related questions. This enhances customer support and fosters positive user engagement.  
-  ![Admin Email Support](https://drive.google.com/file/d/1HGGi167TeCYjUdvFENongyTJerL4GEIB/view?usp=sharing)
+  ![Admin Email Support](src/main/resources/images/statistic.bmp)
 
 - **Invoice generation**:  
   The system can automatically generate and send invoices for each completed order, streamlining the billing process and providing customers with clear records of their purchases.  
-  ![Invoice Generation](https://drive.google.com/file/d/12tbgPKYlnkxGbwpyroGzStkGguZWAxP9/view?usp=sharing)
+  ![Invoice Generation](src/main/resources/images/bill.png)
