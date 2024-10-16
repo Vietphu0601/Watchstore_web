@@ -6,7 +6,7 @@ We provide a curated selection of timepieces, from luxury brands to affordable f
 
 Enjoy exclusive deals, fast shipping, and a seamless shopping experience at TimeHub. Every second counts, and we’re here to make sure you’re always on time with the perfect watch.
 
-![Homepage](src/main/resources/static/images/home.bmp)
+![Homepage](src/main/resources/images/home.png)
 
 ## Installation Guide
 
